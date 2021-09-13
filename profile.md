@@ -2,8 +2,6 @@
 
 1. Original Document
     - **Author:** LRousseau, Jean-Jacques, 1712-1778
-               Martin, Thomaz
-               Tipografia Calcográfica, Tipoplástica e Literária do Arco do Cego, impr.
     - **Title:** Cartas sobre os elementos de botanica
     - **Publisher:** Lisboa: na Typography Chalcographica, Typoplastica, e Litteraria do Arco do Cego, 1801
     - **Language:** Portuguese
