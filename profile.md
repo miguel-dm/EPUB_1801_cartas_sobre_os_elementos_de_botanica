@@ -1,6 +1,7 @@
 # Document Profile
 
 1. Original Document
+
     -**Author:** LRousseau, Jean-Jacques, 1712-1778
                Martin, Thomaz
                Tipografia Calcográfica, Tipoplástica e Literária do Arco do Cego, impr.
