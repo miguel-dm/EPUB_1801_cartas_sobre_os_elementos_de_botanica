@@ -1,7 +1,7 @@
 # Document Profile
 
 1. Original Document
-    - **Author:** LRousseau, Jean-Jacques, 1712-1778
+    - **Author:** Rousseau, Jean-Jacques, 1712-1778
     - **Title:** Cartas sobre os elementos de botanica
     - **Publisher:** Lisboa: na Typography Chalcographica, Typoplastica, e Litteraria do Arco do Cego, 1801
     - **Language:** Portuguese
